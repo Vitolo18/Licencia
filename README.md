@@ -6,7 +6,7 @@ En la industria del software existen diversos tipos de licencias que regulan có
 
 ## Lista de Licencias y sus Características
 
-### 1. MIT License
+## 1. MIT License
 - Permite el uso comercial.
 - Permite modificar el código.
 - Permite distribuir el código.
